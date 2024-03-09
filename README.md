@@ -19,13 +19,4 @@ Currently Implemented:
 **Testing:**
 1. Run dehaze.py. The script takes images in the "test_images" folder and dumps the dehazed images into the "results" folder. A pre-trained snapshot has been provided in the snapshots folder.
 
-**Evaluation:**
-WIP.  
-Some qualitative results are shown below:
 
-![Alt text](results/man.png?raw=true "Title")  
-![Alt text](results/guogong.png?raw=true "Title")  
-![Alt text](results/test4.jpg?raw=true "Title")  
-![Alt text](results/test9.jpg?raw=true "Title")  
-![Alt text](results/test13.jpg?raw=true "Title")  
-![Alt text](results/test15.jpg?raw=true "Title")
